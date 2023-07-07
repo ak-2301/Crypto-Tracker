@@ -41,4 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![alt text](https://github.com/ak-2301/Crypto-Tracker-Nextjs/blob/main/Screenshots/main.PNG?raw=true)
 ![alt text](https://github.com/ak-2301/Crypto-Tracker-Nextjs/blob/main/Screenshots/search.PNG?raw=true)
-![alt text](https://github.com/ak-2301/Crypto-Tracker-Nextjs/blob/main/Screenshots/detail.PNG?raw=true)
+![alt text](https://github.com/ak-2301/Crypto-Tracker-Nextjs/blob/main/Screenshots/coin.PNG?raw=true)
